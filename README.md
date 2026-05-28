@@ -1,5 +1,6 @@
 # Ex-01-Linux-Commands
-
+## Name: Dharshana A S
+## Reg No:212224220022
 
 ## Aim:
 
@@ -178,6 +179,8 @@ The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
 
+<img width="421" height="119" alt="image" src="https://github.com/user-attachments/assets/f679dab8-1ff8-4b9f-9f58-2e0f980f2613" />
+
 
 
 ### 20)	make Command
@@ -186,12 +189,16 @@ The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
 
+<img width="209" height="62" alt="image" src="https://github.com/user-attachments/assets/e0c09f13-0c52-4b48-ac38-fcc9ba00366a" />
+
 
 ### 21)	ifconfig Command
 
 The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
+<img width="768" height="91" alt="image" src="https://github.com/user-attachments/assets/fa5421ef-1437-4505-ae8a-75b3cb38881d" />
+
 
 ### 22)	chmod 777 Command
 
@@ -199,12 +206,16 @@ The chmod 777 command gives read, write and execute permission to the owner, gro
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
- 
+
+ <img width="441" height="107" alt="image" src="https://github.com/user-attachments/assets/b333ac4f-10cb-4a71-b17e-c2df07c9d46d" />
+
 ### 23)	host Command
 
 The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
 
 Syntax: host <domain name> or <ip address>
+
+<img width="543" height="92" alt="image" src="https://github.com/user-attachments/assets/caf2ee58-1f74-4e46-9a78-cf88c4c61d1a" />
 
 
 ### 24)	gzip Command
@@ -213,12 +224,16 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 Syntax: gzip <file1> <file2> <file3>..
 
+<img width="1129" height="178" alt="image" src="https://github.com/user-attachments/assets/14a1c018-9b79-4d22-aeeb-cdb1cdac55fe" />
+
 
 ### 25)	sort Command
 
 The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
+
+<img width="223" height="271" alt="image" src="https://github.com/user-attachments/assets/9b835345-b746-48d2-ba2a-ed2469687c23" />
 
  
 ### 26)	cal Command
@@ -227,6 +242,9 @@ The cal command is used to display the current month's calendar with the current
 
 Syntax: cal
 
+<img width="260" height="180" alt="image" src="https://github.com/user-attachments/assets/d05651a5-611e-4139-8b72-22052637670e" />
+
+
 
 ### 27)	clear Command
 
@@ -234,12 +252,17 @@ Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
 
+<img width="882" height="840" alt="image" src="https://github.com/user-attachments/assets/11e2deb4-5c89-4f6c-b1f8-b48e3dbf574f" />
+
+<img width="459" height="216" alt="image" src="https://github.com/user-attachments/assets/947491a6-7991-453b-8958-168194911253" />
 
 ### 28)	mail Command
 
 The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
+
+<img width="671" height="65" alt="image" src="https://github.com/user-attachments/assets/4563f8fc-0095-4ed7-85d0-1de97ef02e53" />
 
  
 ### 29)	df Command
@@ -248,31 +271,18 @@ The df command is used to display the disk space used in the file system. It dis
 
 Syntax: df
 
+<img width="922" height="291" alt="image" src="https://github.com/user-attachments/assets/210d8202-e7cb-47c4-bf20-e3af2ab9d939" />
+
+
 ### 30)	find Command
 
 The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
+<img width="263" height="77" alt="image" src="https://github.com/user-attachments/assets/d66eb5cb-72cd-465f-a067-da50603cbfcc" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="315" height="70" alt="image" src="https://github.com/user-attachments/assets/8aacdb48-61f9-4d67-8ea1-c2f51d8c71a2" />
 
 ## Result:
 
